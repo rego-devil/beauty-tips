@@ -1,0 +1,15 @@
+.list-list {
+  list-style: circle;
+}
+
+.list-list > li {
+  margin-top: 20px;
+}
+
+.header .logo img {
+  max-width: 100px;
+}
+
+.section2 .wrapper:before {
+  margin-left: -140px;
+}
